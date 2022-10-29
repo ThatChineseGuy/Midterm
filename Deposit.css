@@ -1,0 +1,32 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-image: linear-gradient(to right,#6600FF,#4BF8BA  );
+}
+.top{
+    margin-top: 10%;
+    font-size: 50px;
+}
+#one{
+    margin-left: 20%;
+}
+#two{
+    margin-left: 30%;
+}
+.account{
+    display: inline-block;
+}
+button{
+    font-size: 450%;
+}
+.up{
+    margin-top: 200px;
+    display: inline-block;
+    margin-left: 18%;
+}
+.down{
+    margin-top: 100px;
+    display: inline-block;
+    margin-left: 18%;
+}

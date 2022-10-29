@@ -1,0 +1,36 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-image: linear-gradient(to right,#6600FF,#4BF8BA  );
+}
+.top{
+    margin-top: 10%;
+    font-size: 50px;
+}
+#one{
+    margin-left: 20%;
+}
+#two{
+    margin-left: 30%;
+}
+.account{
+    display: inline-block;
+}
+.bottom{
+    margin-top: 15%;
+    font-size: 30px;
+}
+.money{
+    display: inline-block;
+    background-color: white;
+    border-style: hidden;
+    border-radius: 15%;
+}
+
+#withdraw{
+    margin-left: 38%;
+}
+#Deposit{
+    margin-left: 5%;
+}
